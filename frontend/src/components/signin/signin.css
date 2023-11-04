@@ -1,0 +1,11 @@
+.main{
+    @apply min-h-screen flex items-center justify-center bg-gray-100
+}
+
+.sample{
+    @apply bg-white p-8 rounded-lg shadow-md w-96
+}
+
+.submit_btn{
+    @apply w-full bg-blue-500 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded
+}
